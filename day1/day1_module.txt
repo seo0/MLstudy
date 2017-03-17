@@ -1,0 +1,26 @@
+16.12.27(화)
+수업목표 : python 기본문법, class
+
+precalss(반드시 돌려보고 조작해서 연습해보기)
+1. part_01_helloworld->기본문법
+    first_steps_with_python
+    lists_and_dictionaries
+    a_practice
+        -1.preclass
+
+2. part02_student_manager_ext
+    a_practice
+        -calculator
+        -calculator_main
+
+
+책
+    GTG Chapter 2 – Section 2.2 (CreditCard Class example)(optional)
+    (The entire chapter discusses in depth object-oriented programming in Python)
+    jumpo to python
+    자료형 / 클래스부분
+
+
+해야할 것
+    phone_book
+    student_manager_ext
